@@ -1,4 +1,5 @@
 #komentarz
 print gir=
 git 2 \
-raz dwa 
+raz dwa
+raz dwa piec
