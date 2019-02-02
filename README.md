@@ -1,5 +1,6 @@
 #komentarz
-print gir=
-git 2 \
-raz dwa
-raz dwa piec
+print(git)
+print(git 2)
+a="raz dwa"
+b="raz dwa piecgi"
+print(a,b)
