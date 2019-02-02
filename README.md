@@ -3,6 +3,7 @@
 
 ## Spec
 
-## TODO
-
 ## Referencje
+
+## Smoke tests
+tekst1
