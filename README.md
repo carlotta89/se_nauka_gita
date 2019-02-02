@@ -7,3 +7,4 @@
 
 ## Smoke tests
 tekst1
+tekst2
