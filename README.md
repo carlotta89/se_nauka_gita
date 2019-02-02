@@ -1,5 +1,5 @@
 
-#Testy platforma AI dla Ksiegowosci
+# Testy platforma AI dla Ksiegowosci
 
 ## Spec
 
